@@ -13,6 +13,6 @@ $ npm run dev
 # run the server at localhost:3000
 $ npm run start
 
-# test the server if needed
+# test the server
 $ npm test
 ```
